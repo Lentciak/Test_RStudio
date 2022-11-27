@@ -2,7 +2,7 @@
 title: "Instrukcja do połączenia Rstudio i Git"
 author: "Igor"
 date: last-modified
-format: html
+format: pdf
 editor: visual
 editor_options: 
   chunk_output_type: console
@@ -18,7 +18,7 @@ editor_options:
 
 ## Ad 1.
 
-Wejdź na stronę https://github.com i załóż darmowe konto na GitHubie.
+Wejdź na stronę <https://github.com> i załóż darmowe konto na GitHubie.
 
 ![Strona główna](figures/GitHub.png){fig-align="center"}
 
@@ -28,7 +28,7 @@ Jeśli nie posiadasz na komputerze programów R i RStudio to zainstaluj:
 
 -   [Strona R](http://r-project.org)
 
--   [RStudio](http//:www.rstudio.com)
+-   [RStudio](http://rstudio.com)
 
 Natomiast jeśli posiadasz R i Rstudio, to sprawdź jaką wersję oprogramowania posiadasz.
 
